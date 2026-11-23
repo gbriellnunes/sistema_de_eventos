@@ -9,7 +9,7 @@ Sistema desenvolvido em Java, utilizando Programação Orientada a Objetos (POO)
 - Rayca Almeida Andrade, RA: 112611666
 - Gabriel Eduardo Nunes dos Santos, RA: 112611670
 
-## SISTEMA DE EVENTOS - POUSO ALEGRE
+## Sistema de gerenciamento de eventos desenvolvido em Java como projeto A3
 
 - 1 - Cadastrar usuário
 - 2 - Cadastrar evento
