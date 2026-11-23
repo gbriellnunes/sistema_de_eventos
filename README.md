@@ -12,10 +12,10 @@ Sistema desenvolvido em Java, utilizando Programação Orientada a Objetos (POO)
   SISTEMA DE EVENTOS
   POUSO ALEGRE
 
-1 - Cadastrar usuário
-2 - Cadastrar evento
-3 - Listar eventos
-4 - Inscrever-se em evento
-5 - Minhas inscrições
-6 - Cancelar inscrição
-0 - Sair
+- 1 - Cadastrar usuário
+- 2 - Cadastrar evento
+- 3 - Listar eventos
+- 4 - Inscrever-se em evento
+- 5 - Minhas inscrições
+- 6 - Cancelar inscrição
+- 0 - Sair
